@@ -22,13 +22,13 @@
 
   
     <string name="about_project_site">وێبسایتی پڕۆژە:
-\nhttps://huskyapp.dev</string>
+\nhttps://koyu.space</string>
   
 
 
   
     <string name="about_bug_feature_request_site">ڕاپۆرتەکانی هەڵەکان و داواکاریەکانی تایبەتمەندی:
-\nhttps://git.mentality.rip/FWGS/Husky/issues</string>
+\nhttps://github.com/koyuspace/android-native/issues</string>
   
 
 
@@ -44,7 +44,7 @@
 
 
   
-    <string name="dialog_whats_an_instance">ناونیشان یان دۆمەینی هەر نمونەیەک دەکرێت لێرە تێبنووسرێت، وەک <a href="https://fediverse.network/pleroma?count=peers">فرەتر!</a> 
+    <string name="dialog_whats_an_instance">ناونیشان یان دۆمەینی هەر نمونەیەک دەکرێت لێرە تێبنووسرێت، وەک <a href="https://web.koyu.space/instance-recommendations/">فرەتر!</a> 
 \n
 \nئەگەر هێشتا ئەژمێرێکت نیە، دەتوانیت ناوی ئەو نمونەیە داخڵ بکەیت کە دەتەوێت بیبەستیت و ئەژمێرێک دروست بکەیت لەوێ.
 \n

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="tusky_blue">#d8a070</color>
-    <color name="tusky_blue_light">#f16707</color>
+    <color name="tusky_blue">#fe53e0</color>
+    <color name="tusky_blue_light">#fe53e0</color>
     <color name="tusky_orange">#ca8f04</color>
     <color name="tusky_orange_light">#fab207</color>
     <color name="tusky_green">#19a341</color>
@@ -14,20 +14,20 @@
 
     <!-- def RemapVal(v, a, b, c = 0, d = 100): return c + (d - c) * (v - a) / (b - a) -->
     <!-- the number roughly corresponds to the % lightness of the grey -->
-    <color name="tusky_grey_05">#070b14</color>
-    <color name="tusky_grey_10">#121a24</color> <!-- Pleroma Dark Background -->
-    <color name="tusky_grey_20">#182230</color> <!-- Pleroma Dark Foreground -->
-    <color name="tusky_grey_25">#1f2836</color> <!-- calculated from gradient -->
-    <color name="tusky_grey_30">#252e3c</color> <!-- Pleroma Dark Foreground -->
-    <color name="tusky_grey_40">#3f4855</color> <!-- calculated from gradient -->
-    <color name="tusky_grey_50">#666e7a</color> <!-- calculated from gradient -->
-    <color name="tusky_grey_70">#adb0b4</color> <!-- calculated from gradient -->
-    <color name="tusky_grey_80">#b2b8c2</color> <!-- Pleroma Light Foreground -->
-    <color name="tusky_grey_90">#b9b9ba</color> <!-- Pleroma Dark Text Color -->
-    <color name="tusky_grey_95">#f2f4f6</color> <!-- Pleroma Light Background -->
+    <color name="tusky_grey_05">#111122</color>
+    <color name="tusky_grey_10">#333344</color> <!-- Pleroma Dark Background -->
+    <color name="tusky_grey_20">#222233</color> <!-- Pleroma Dark Foreground -->
+    <color name="tusky_grey_25">#222233</color> <!-- calculated from gradient -->
+    <color name="tusky_grey_30">#222233</color> <!-- Pleroma Dark Foreground -->
+    <color name="tusky_grey_40">#333344</color> <!-- calculated from gradient -->
+    <color name="tusky_grey_50">#666677</color> <!-- calculated from gradient -->
+    <color name="tusky_grey_70">#aaaabb</color> <!-- calculated from gradient -->
+    <color name="tusky_grey_80">#bbbbcc</color> <!-- Pleroma Light Foreground -->
+    <color name="tusky_grey_90">#9999bb</color> <!-- Pleroma Dark Text Color -->
+    <color name="tusky_grey_95">#eeeeff</color> <!-- Pleroma Light Background -->
     <!--<color name="tusky_grey_95">#e4e6e8</color>-->
 
-    <color name="transparent_tusky_blue">#8c2b90d9</color>
+    <color name="transparent_tusky_blue">#fe53e0</color>
     <color name="transparent_black">#8f000000</color>
     <color name="header_background_filter_dark">#44000000</color>
     <color name="header_background_filter_light">#66FFFFFF</color>

@@ -22,13 +22,13 @@
 
   
     <string name="about_project_site">প্রকল্প ওয়েবসাইট:
-\nhttps://huskyapp.dev</string>
+\nhttps://koyu.space</string>
   
 
 
   
     <string name="about_bug_feature_request_site">বাগ রিপোর্ট এবং বৈশিষ্ট্য অনুরোধ:
-\nhttps://git.mentality.rip/FWGS/Husky/issues</string>
+\nhttps://github.com/koyuspace/android-native/issues</string>
   
 
 
@@ -44,7 +44,7 @@
 
 
   
-    <string name="dialog_whats_an_instance">কোনও উদাহরণের ঠিকানা বা ডোমেন এখানে প্রবেশ করা যেতে পারে যেমন shitposter.club, blob.cat, expired.mentality.rip, এবং <a href="https://fediverse.network/pleroma?count=peers"> আরও! </a> 
+    <string name="dialog_whats_an_instance">কোনও উদাহরণের ঠিকানা বা ডোমেন এখানে প্রবেশ করা যেতে পারে যেমন koyu.space, blob.cat, cdrom.tokyo, এবং <a href="https://web.koyu.space/instance-recommendations/"> আরও! </a> 
 \n 
 \nআপনার যদি এখনো অ্যাকাউন্ট না থাকে তবে আপনি যে ইনস্ট্যান্সটিতে যোগ দিতে চান সেটির নামটি প্রবেশ করতে এবং সেখানে একটি অ্যাকাউন্ট তৈরি করতে পারেন। 
 \n 

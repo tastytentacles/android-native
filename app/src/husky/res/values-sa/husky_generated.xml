@@ -22,13 +22,13 @@
 
   
     <string name="about_project_site">प्रकल्पस्य जालसूत्रम् :
-\n https://huskyapp.dev</string>
+\n https://koyu.space</string>
   
 
 
   
     <string name="about_bug_feature_request_site">अशुद्धीनामावेदनं वैशिष्ट्यनिवेदनञ्च
-\n https://git.mentality.rip/FWGS/Husky/issues</string>
+\n https://github.com/koyuspace/android-native/issues</string>
   
 
 
@@ -44,7 +44,7 @@
 
 
   
-    <string name="dialog_whats_an_instance">कस्याऽपि विशिष्टस्थलस्य सङ्केतसूत्रमत्र टङ्कयितुं शक्यते shitposter.club, blob.cat, expired.mentality.rip, तथेैव<a href="https://fediverse.network/pleroma?count=peers">अधिकम्</a> 
+    <string name="dialog_whats_an_instance">कस्याऽपि विशिष्टस्थलस्य सङ्केतसूत्रमत्र टङ्कयितुं शक्यते koyu.space, blob.cat, cdrom.tokyo, तथेैव<a href="https://web.koyu.space/instance-recommendations/">अधिकम्</a> 
 \n
 \nयदि युष्माकं व्यक्तिगतलेखाऽत्र न वर्तते तर्हि तस्य विशिष्टस्थलस्य नाम टङ्कयित्वा तत्र निर्मातुं शक्नुथ ।
 \n

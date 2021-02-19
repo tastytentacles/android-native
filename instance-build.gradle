@@ -10,7 +10,7 @@ ext.APP_NAME = "koyu.space"
 ext.APP_ID = "com.Sommerlichter.social"
 
 // url of a custom app logo. Recommended size at least 600x600. Keep empty to use the Tusky elephant friend.
-ext.CUSTOM_LOGO_URL = "https://koyu.space/img/pb-icon.svg"
+ext.CUSTOM_LOGO_URL = ""
 
 // e.g. mastodon.social. Keep empty to not suggest any instance on the signup screen
 ext.CUSTOM_INSTANCE = "koyu.space"

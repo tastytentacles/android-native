@@ -1,19 +1,19 @@
 <resources>
   
-    <string name="about_tusky_version">Husky %s</string>
+    <string name="about_tusky_version">koyu.space %s</string>
   
   
-    <string name="about_tusky_account">Amaɣnu n Husky</string>
+    <string name="about_tusky_account">Amaɣnu n koyu.space</string>
   
   
-    <string name="about_powered_by_tusky">Yettwamdemmar s Husky</string>
+    <string name="about_powered_by_tusky">Yettwamdemmar s koyu.space</string>
   
 
 
 
   
     <string name="about_project_site">Asmel Web n usenfaṛ:
-\n https://huskyapp.dev</string>
+\n https://koyu.space</string>
   
 
 

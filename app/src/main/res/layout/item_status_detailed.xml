@@ -404,7 +404,7 @@
         sparkbutton:inactiveImage="@drawable/ic_favourite_24dp"
         sparkbutton:primaryColor="@color/tusky_orange"
         sparkbutton:secondaryColor="@color/tusky_orange_light" />
-    
+
     <ImageButton
         android:id="@+id/status_emoji_react"
         style="@style/TuskyImageButton"
@@ -413,10 +413,12 @@
         android:contentDescription="@string/action_emoji_react"
         android:importantForAccessibility="no"
         android:padding="4dp"
+        android:visibility="gone"
         app:layout_constraintEnd_toStartOf="@id/status_bookmark"
         app:layout_constraintStart_toEndOf="@id/status_favourite"
         app:layout_constraintTop_toTopOf="@id/status_inset"
-        app:srcCompat="@drawable/ic_emoji_24dp" />
+        app:srcCompat="@drawable/ic_emoji_24dp"
+        tools:visibility="gone" />
     
 
     <at.connyduck.sparkbutton.SparkButton

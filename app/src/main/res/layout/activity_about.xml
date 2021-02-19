@@ -48,9 +48,11 @@
                     android:layout_gravity="center_horizontal"
                     android:drawablePadding="16dp"
                     android:gravity="center_vertical"
-                    android:textSize="18sp"
                     android:text="@string/about_powered_by_tusky"
-                    android:textStyle="bold" />
+                    android:textSize="18sp"
+                    android:textStyle="bold"
+                    android:visibility="gone"
+                    tools:visibility="gone" />
 
 
                 <TextView
@@ -102,7 +104,9 @@
                     android:lineSpacingMultiplier="1.2"
                     android:text="@string/about_tusky_account"
                     android:textAllCaps="false"
-                    android:textSize="16sp" />
+                    android:textSize="16sp"
+                    android:visibility="gone"
+                    tools:visibility="gone" />
 
                 <Button
                     android:id="@+id/aboutLicensesButton"

@@ -15,20 +15,20 @@
     <string name="license_description">يحتوي توسكي على شيفرة وأوصول صادرة مِن المشاريع المفتوحة التالية :</string>
   
   
-    <string name="about_powered_by_tusky">مدعوم بِـ Husky</string>
+    <string name="about_powered_by_tusky">مدعوم بِـ koyu.space</string>
   
 
 
 
   
     <string name="about_project_site">موقع المشروع :\n
-                   https://huskyapp.dev</string>
+                   https://koyu.space</string>
   
 
 
   
     <string name="about_bug_feature_request_site">تقارير الأخطاء و طلبات التحسينات على  :\n
-                   https://git.mentality.rip/FWGS/Husky/issues</string>
+                   https://github.com/koyuspace/android-native/issues</string>
   
 
 
@@ -44,7 +44,7 @@
 
 
   
-    <string name="dialog_whats_an_instance">بإمكانك إدخال عنوان أي مثيل خادوم ماستدون هنا. على سبيل المثال shitposter.club أو blob.cat أو expired.mentality.rip أوالإطلاع على <a href="https://fediverse.network/pleroma?count=peers">لاكتشاف المزيد !</a> 
+    <string name="dialog_whats_an_instance">بإمكانك إدخال عنوان أي مثيل خادوم ماستدون هنا. على سبيل المثال koyu.space أو blob.cat أو cdrom.tokyo أوالإطلاع على <a href="https://web.koyu.space/instance-recommendations/">لاكتشاف المزيد !</a> 
 \n 
 \n إن كنت لا تملك حسابا بإمكانك إدخال اسم مثيل خادوم تريد الانضمام إليه قصد إنشاء حسابك عليه.
 \n 

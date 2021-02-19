@@ -405,10 +405,12 @@
         android:contentDescription="@string/action_emoji_react"
         android:importantForAccessibility="no"
         android:padding="4dp"
+        android:visibility="gone"
         app:layout_constraintEnd_toStartOf="@id/status_bookmark"
         app:layout_constraintStart_toEndOf="@id/status_favourite"
         app:layout_constraintTop_toTopOf="@id/status_reply"
-        app:srcCompat="@drawable/ic_emoji_24dp" />
+        app:srcCompat="@drawable/ic_emoji_24dp"
+        tools:visibility="gone" />
     
     <at.connyduck.sparkbutton.SparkButton
         android:id="@+id/status_bookmark"

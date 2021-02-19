@@ -126,7 +126,7 @@ class PreferencesFragment : PreferenceFragmentCompat(), Injectable {
                 }
 
                 switchPreference {
-                    setDefaultValue(false)
+                    setDefaultValue(true)
                     key = PrefKeys.ANIMATE_GIF_AVATARS
                     setTitle(R.string.pref_title_animate_gif_avatars)
                     isSingleLineTitle = false
@@ -140,7 +140,7 @@ class PreferencesFragment : PreferenceFragmentCompat(), Injectable {
                 }
 
                 switchPreference {
-                    setDefaultValue(false)
+                    setDefaultValue(true)
                     key = PrefKeys.SHOW_CARDS_IN_TIMELINES
                     setTitle(R.string.pref_title_show_cards_in_timelines)
                     isSingleLineTitle = false
@@ -190,14 +190,7 @@ class PreferencesFragment : PreferenceFragmentCompat(), Injectable {
                 }
                 
                 switchPreference {
-                    setDefaultValue(false)
-                    key = PrefKeys.STICKERS
-                    setTitle(R.string.pref_title_enable_experimental_stickers)
-                    isSingleLineTitle = false
-                }
-
-                switchPreference {
-                    setDefaultValue(false)
+                    setDefaultValue(true)
                     key = PrefKeys.ANIMATE_CUSTOM_EMOJIS
                     setTitle(R.string.pref_title_animate_custom_emojis)
                     isSingleLineTitle = false
@@ -222,7 +215,7 @@ class PreferencesFragment : PreferenceFragmentCompat(), Injectable {
 
             preferenceCategory(R.string.pref_title_browser_settings) {
                 switchPreference {
-                    setDefaultValue(false)
+                    setDefaultValue(true)
                     key = PrefKeys.CUSTOM_TABS
                     setTitle(R.string.pref_title_custom_tabs)
                     isSingleLineTitle = false

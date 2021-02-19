@@ -22,13 +22,13 @@
 
   
     <string name="about_project_site">پایگاه وب پروژه :
-\n https://huskyapp.dev</string>
+\n https://koyu.space</string>
   
 
 
   
     <string name="about_bug_feature_request_site">گزارش مشکلات و درخواست ویژگی‌ها: 
-\n https://git.mentality.rip/FWGS/Husky/issues</string>
+\n https://github.com/koyuspace/android-native/issues</string>
   
 
 
@@ -44,7 +44,7 @@
 
 
   
-    <string name="dialog_whats_an_instance">نشانی یا دامنهٔ هر نمونه‌ای می‌تواند وارد شود، مثل shitposter.club, blob.cat, expired.mentality.rip, و <a href="https://fediverse.network/pleroma?count=peers">بیش‌تر!</a>.
+    <string name="dialog_whats_an_instance">نشانی یا دامنهٔ هر نمونه‌ای می‌تواند وارد شود، مثل koyu.space, blob.cat, cdrom.tokyo, و <a href="https://web.koyu.space/instance-recommendations/">بیش‌تر!</a>.
 \n 
 \n اگر هنوز حسابی ندارید، می‌توانید نام نمونه مورد نظر را وارد کرده و در آن حسابی بسازید. 
 \n 

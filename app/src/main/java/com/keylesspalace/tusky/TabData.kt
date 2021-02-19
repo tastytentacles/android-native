@@ -33,7 +33,6 @@ const val FEDERATED = "Federated"
 const val DIRECT = "Direct"
 const val HASHTAG = "Hashtag"
 const val LIST = "List"
-const val CHATS = "Chats"
 
 data class TabData(val id: String,
                    @StringRes val text: Int,
@@ -91,12 +90,6 @@ fun createTabDataFromId(id: String, arguments: List<String> = emptyList()): TabD
                     arguments,
                 { arguments.getOrNull(1).orEmpty() }
             )
-        CHATS -> TabData(
-                CHATS,
-                R.string.chats,
-                R.drawable.ic_forum_24px,
-                { ChatsFragment() }
-        )
         else -> throw IllegalArgumentException("unknown tab type")
     }
 }
@@ -107,6 +100,6 @@ fun defaultTabs(): List<TabData> {
             createTabDataFromId(NOTIFICATIONS),
             createTabDataFromId(LOCAL),
             createTabDataFromId(FEDERATED),
-            createTabDataFromId(CHATS)
+            createTabDataFromId(DIRECT)
     )
 }

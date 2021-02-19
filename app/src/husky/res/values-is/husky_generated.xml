@@ -1,50 +1,50 @@
 <resources>
   
-    <string name="about_tusky_version">Husky %s</string>
+    <string name="about_tusky_version">koyu.space %s</string>
   
   
-    <string name="about_powered_by_tusky">Keyrir á Husky</string>
+    <string name="about_powered_by_tusky">Keyrir á koyu.space</string>
   
   
-    <string name="about_tusky_license">Husky er frjáls hugbúnaður með opinn grunnkóða. Hann er gefinn út með GNU General Public notkunarleyfi, útgáfu 3. Þú getur skoðað notkunarleyfið hér: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
+    <string name="about_tusky_license">koyu.space er frjáls hugbúnaður með opinn grunnkóða. Hann er gefinn út með GNU General Public notkunarleyfi, útgáfu 3. Þú getur skoðað notkunarleyfið hér: https://www.gnu.org/licenses/gpl-3.0.en.html</string>
   
   
-    <string name="about_tusky_account">Notandasnið Husky</string>
+    <string name="about_tusky_account">Notandasnið koyu.space</string>
   
   
-    <string name="restart_emoji">Það þarf að endurræsa Husky til að breytingarnar taki gildi</string>
+    <string name="restart_emoji">Það þarf að endurræsa koyu.space til að breytingarnar taki gildi</string>
   
   
-    <string name="license_description">Husky inniheldur kóða og gögn frá eftirfarandi verkefnum með opinn grunnkóða:</string>
+    <string name="license_description">koyu.space inniheldur kóða og gögn frá eftirfarandi verkefnum með opinn grunnkóða:</string>
   
 
 
 
   
     <string name="about_project_site">Vefsvæði verkefnisins:
-\n https://huskyapp.dev</string>
+\n https://koyu.space</string>
   
 
 
   
     <string name="about_bug_feature_request_site">Villutilkynningar og beiðnir um nýja eiginleika:
-\n https://git.mentality.rip/FWGS/Husky/issues</string>
+\n https://github.com/koyuspace/android-native/issues</string>
   
 
 
   
-    <string name="action_login">Skrá inn með Pleroma</string>
+    <string name="action_login">Skrá inn með koyu.space</string>
   
   
-    <string name="add_account_description">Bæta við nýjum Pleroma-aðgangi</string>
+    <string name="add_account_description">Bæta við nýjum koyu.space-aðgangi</string>
   
   
-    <string name="warning_scheduling_interval">Pleroma er með 5 mínútna lágmarksbil fyrir áætlaðar aðgerðir.</string>
+    <string name="warning_scheduling_interval">koyu.space er með 5 mínútna lágmarksbil fyrir áætlaðar aðgerðir.</string>
   
 
 
   
-    <string name="dialog_whats_an_instance">Hægt er að setja hér inn vistfang eða lén á hvaða tilviki sem er, svo sem shitposter.club, blob.cat, expired.mentality.rip og <a href="https://fediverse.network/pleroma?count=peers">fleiri!</a> 
+    <string name="dialog_whats_an_instance">Hægt er að setja hér inn vistfang eða lén á hvaða tilviki sem er, svo sem koyu.space, blob.cat, cdrom.tokyo og <a href="https://web.koyu.space/instance-recommendations/">fleiri!</a> 
 \n
 \nEf þú ert ekki ennþá með notandaaðgang, geturðu sett inn nafnið á því tilviki sem þú vilt tilheyra og búið til aðgang þar.
 \n

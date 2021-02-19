@@ -305,10 +305,6 @@ class TabPreferenceActivity : BaseActivity(), Injectable, ItemInteractionListene
         if (!currentTabs.contains(directMessagesTab)) {
             addableTabs.add(directMessagesTab)
         }
-        val chatTab = createTabDataFromId(CHATS)
-        if (!currentTabs.contains(chatTab)) {
-            addableTabs.add(chatTab)
-        }
 
         addableTabs.add(createTabDataFromId(HASHTAG))
         addableTabs.add(createTabDataFromId(LIST))
