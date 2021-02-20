@@ -2,7 +2,7 @@
 
 ![icon](https://koyu.space/img/pb-icon.svg)
 
-koyu.space for Android is based on Husky. Husky is a fork of [Tusky](https://github.com/tuskyapp/Tusky) that aimed to support [Pleroma's Mastodon API extensions](https://git.pleroma.social/pleroma/pleroma/blob/develop/docs/API/differences_in_mastoapi_responses.md) and some ideas that I may come up with.
+koyu.space for Android is based on Husky. Husky is a fork of [Tusky](https://github.com/tuskyapp/Tusky) that aimed to support [Pleroma's Mastodon API extensions](https://git.pleroma.social/pleroma/pleroma/blob/develop/docs/API/differences_in_mastoapi_responses.md).
 
 Tusky is quote, unquote, `... a beautiful Android client for [Mastodon](https://github.com/tootsuite/mastodon). Mastodon is an ActivityPub federated social network. That means no single entity controls the whole network, rather, like e-mail, volunteers and organisations operate their own independent servers, users from which can all interact with each other seamlessly.`
 
