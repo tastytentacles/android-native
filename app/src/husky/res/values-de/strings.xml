@@ -39,7 +39,7 @@
     <string name="send_toot_notification_saved_content">Eine Kopier des Beitrages wurde in den Entwurfen gesichert</string>
     <string name="status_share_content">Inhalt des Beitrages teilen</string>
     <string name="action_unreblog">Wiederholung entfernen</string>
-    <string name="action_access_scheduled_toot">Geplante Beiträe</string>
+    <string name="action_access_scheduled_toot">Geplante Beiträge</string>
     <string name="dialog_redraft_toot_warning">Löschen und Beitrag neu verfassen\?</string>
     <string name="notification_boost_description">Benachrichtigungen, wenn deine Beiträge wiederholt werden</string>
     <string name="status_boosted_format">%s wiederholte</string>

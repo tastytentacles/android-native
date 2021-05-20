@@ -27,8 +27,8 @@ android {
         applicationId APP_ID
         minSdkVersion 21
         targetSdkVersion 29
-        versionCode 3000
-        versionName '3.0'
+        versionCode 3100
+        versionName '3.1'
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
 
@@ -182,9 +182,9 @@ dependencies {
 
     implementation "com.github.connyduck:sparkbutton:4.1.0"
 
-    implementation 'com.github.piasy:BigImageViewer:1.7.0'
-    implementation 'com.github.piasy:GlideImageLoader:1.7.0'
-    implementation 'com.github.piasy:GlideImageViewFactory:1.7.0'
+    implementation 'com.github.piasy:BigImageViewer:1.8.0'
+    implementation 'com.github.piasy:GlideImageLoader:1.8.0'
+    implementation 'com.github.piasy:GlideImageViewFactory:1.8.0'
 
     implementation "com.mikepenz:materialdrawer:$materialdrawerVersion"
     implementation "com.mikepenz:materialdrawer-iconics:$materialdrawerVersion"

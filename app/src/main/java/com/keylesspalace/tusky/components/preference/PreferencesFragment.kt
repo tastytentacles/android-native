@@ -183,7 +183,7 @@ class PreferencesFragment : PreferenceFragmentCompat(), Injectable {
                 }
                 
                 switchPreference {
-                    setDefaultValue(true)
+                    setDefaultValue(false)
                     key = PrefKeys.BIG_EMOJIS
                     setTitle(R.string.pref_title_enable_big_emojis)
                     isSingleLineTitle = false

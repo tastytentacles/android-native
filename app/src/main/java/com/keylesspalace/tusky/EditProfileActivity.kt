@@ -64,7 +64,7 @@ class EditProfileActivity : BaseActivity(), Injectable {
         private const val AVATAR_PICK_RESULT = 1
         private const val HEADER_PICK_RESULT = 2
         private const val PERMISSIONS_REQUEST_READ_EXTERNAL_STORAGE = 1
-        private const val MASTODON_MAX_ACCOUNT_FIELDS = 4
+        private const val MASTODON_MAX_ACCOUNT_FIELDS = 8
 
         private const val BUNDLE_CURRENTLY_PICKING = "BUNDLE_CURRENTLY_PICKING"
     }
