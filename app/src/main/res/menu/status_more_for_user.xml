@@ -38,6 +38,9 @@
         android:title="@string/unreblog_private"
         android:visible="false" />
     <item
+        android:id="@+id/status_delete_and_redraft"
+        android:title="@string/action_delete_and_redraft" />
+    <item
         android:id="@+id/status_delete"
         android:title="@string/action_delete" />
 </menu>

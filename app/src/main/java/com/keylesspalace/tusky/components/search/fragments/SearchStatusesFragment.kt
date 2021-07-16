@@ -353,6 +353,10 @@ class SearchStatusesFragment : SearchFragment<Pair<Status, StatusViewData.Concre
                     showConfirmDeleteDialog(id, position)
                     return@setOnMenuItemClickListener true
                 }
+                R.id.status_delete_and_redraft -> {
+                    showConfirmEditDialog(id, position, status)
+                    return@setOnMenuItemClickListener true
+                }
                 R.id.pin -> {
                     viewModel.pinAccount(status, !status.isPinned())
                     return@setOnMenuItemClickListener true
