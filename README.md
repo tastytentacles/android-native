@@ -12,6 +12,7 @@ If you have any bug reports, feature requests or questions please open an issue 
 
 For translating Tusky into your language, visit https://weblate.tusky.app.
 For translating Husky, visit https://l10n.mentality.rip.
+For translating the koyu.space app, open up a pull request.
 
 ### Head of development
 
