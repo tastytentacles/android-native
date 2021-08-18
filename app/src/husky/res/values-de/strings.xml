@@ -21,8 +21,8 @@
     <string name="action_sticker">Sticker</string>
     <string name="pref_title_enable_big_emojis">Große eigene Emoji aktivieren</string>
     <string name="pref_title_enable_experimental_stickers">Experimentelle Pleroma-FE Sticker aktiveren (wenn verfügbar)</string>
-    <string name="action_send">POSTEN</string>
-    <string name="action_send_public">POSTEN!</string>
+    <string name="action_send">HOP</string>
+    <string name="action_send_public">HOP!</string>
     <string name="action_toggle_visibility">Beitragssichtbarkeit</string>
     <string name="action_reblog">Wiederholen</string>
     <string name="action_hide_reblogs">Widerholungen verbergen</string>

@@ -36,14 +36,14 @@
     <string name="action_reblog">Repetir</string>
     <string name="action_unreblog">Deshacer repeticiones</string>
     <string name="action_show_reblogs">Mostrar repeticiones</string>
-    <string name="action_send">PUBLICAR</string>
+    <string name="action_send">HOP</string>
     <string name="action_open_reblogger">Abrir editor de repeticiones</string>
     <string name="action_open_reblogged_by">Mostrar repeticiones</string>
     <string name="unreblog_private">Deshacer repetición</string>
     <string name="action_open_toot">Abrir publicación</string>
     <string name="compose_shortcut_long_label">Crear publicación</string>
     <string name="description_status_reblogged">Repetido</string>
-    <string name="action_send_public">¡PUBLICADO!</string>
+    <string name="action_send_public">¡HOP!</string>
     <string name="notification_reblog_format">%s repitió tu publicación</string>
     <string name="notification_favourite_format">%s le encanto tu publicación</string>
     <string name="notification_boost_name">Repeticiones</string>
